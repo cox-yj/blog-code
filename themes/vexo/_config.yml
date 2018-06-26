@@ -1,0 +1,59 @@
+author: cox-yj # 作者
+description: cox-yj's blog
+keyword: hexo-theme, vuejs
+favicon: 
+
+excerpt_link: Read more
+
+menu:
+ Home: /
+ Tags: /tags/
+ Archives: /archives/
+ Projects: /project/
+ About: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+# comment
+# you can set gitment or uyan
+
+comment: gitment
+
+# gitment config
+gitment_owner: cox-yj
+gitment_repo: cox-yj.xin
+gitment_oauth_id: fd3bb166ab6677fd330f
+gitment_oauth_secret: 136c24f12fc71cc22096fe74b6ccb6164f532250
+
+# uyan
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+
+baidu_id: 
+
+about: 
+  banner: http://file.muyutech.com/about.jpg
+  avatar: https://github.com/cox-yj/BlogBackup/raw/master/source/assets/img/user.jpg
+  description: "The end is always near."
+  weibo_username:
+  twitter_username:
+  github_username: cox-yj
+  zhihu_username: 怒海一扁舟
+  douban_username:
+  linkedin_username:
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
