@@ -82,7 +82,7 @@ deploy:
   repo: git@github.com:cox-yj/cox-yj.github.io.git
   
 
-SEOTitle: cox-yj的博客 | cox-yj's Blog
+SEOTitle: cox-yj 的博客 | cox-yj's Blog
 # header-img: img/home-bg.jpg
 # email: onlythen@yeah.net
 # description: 聂小涛的博客
